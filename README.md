@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @steffaloff
-- 👀 I’m interested in Cloud Technology, Python, Terraform, Docker
-- 🌱 I’m currently doing automation in Azure
+
+Cloud Technology & Software Engineering
 - 📫 Learning is continous
 
 <!---
